@@ -25,3 +25,5 @@ https://www.gyan.dev/ffmpeg/builds/sha256-release-full-shared
 https://www.gyan.dev/ffmpeg/builds/sha256-tools  
 
 All hashes are for the 7-zip archives unless marked otherwise in the URL.
+
+[![Buy me a cuppa](../assets/bmc-192.png)](https://www.buymeacoffee.com/gyan)
