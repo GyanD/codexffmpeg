@@ -4,6 +4,16 @@
 
 This is a support site for https://www.gyan.dev/ffmpeg
 
+  <em>Many Thanks to our Sponsors:</em>
+  <div>
+    <a href="https://imagekit.io/docs/video-transformation?utm_campaign=gyan_dev&utm_medium=referral&utm_source=github" rel="sponsored"
+       width="20%;">
+       <img src="../assets/logo-imagekit-video.png" alt="Imagekit.io - stream optimized videos on the web" width="20%" />
+    </a>
+  </div>
+
+----
+
 The Releases section acts as a mirror for builds hosted at https://www.gyan.dev/ffmpeg/builds/
 
 To query the latest available versions, visit the URLs below and parse the single-line plain-text files received:
