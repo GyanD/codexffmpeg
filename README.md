@@ -1,8 +1,11 @@
 # Codex FFmpeg
 
-**NEWS**: The [resources](https://www.gyan.dev/ffmpeg/resources) section has been opened with pages containing details of all codecs and muxers in ffmpeg.
+This is a support site as well as a mirror for all ffmpeg Windows builds released at https://www.gyan.dev/ffmpeg
 
-This is a support site for https://www.gyan.dev/ffmpeg
+The list of libraries in these builds can be found [here](https://www.gyan.dev/ffmpeg/builds/#libraries).  
+The changelog for the builds can be found [here](https://www.gyan.dev/ffmpeg/builds/#changelog).
+
+**NEWS**: The [resources](https://www.gyan.dev/ffmpeg/resources) section has been opened with pages containing details of all codecs and muxers in ffmpeg.
 
   <em>Many Thanks to our Sponsors:</em>
   <div>
@@ -13,8 +16,6 @@ This is a support site for https://www.gyan.dev/ffmpeg
   </div>
 
 ----
-
-The Releases section acts as a mirror for builds hosted at https://www.gyan.dev/ffmpeg/builds/
 
 To query the latest available versions, visit the URLs below and parse the single-line plain-text files received:
 
