@@ -11,7 +11,16 @@ The changelog for the builds can be found [here](https://www.gyan.dev/ffmpeg/bui
   <div>
     <a href="https://imagekit.io/docs/video-transformation?utm_campaign=gyan_dev&utm_medium=referral&utm_source=github" rel="sponsored"
        width="20%;">
-       <img src="../assets/logo-imagekit-video.png" alt="Imagekit.io - stream optimized videos on the web" width="20%" />
+       <img src="../assets/logo-imagekit-video.png" alt="Imagekit.io - stream optimized videos on the web" align="center" width="20%" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://transloadit.com/?utm_source=gyan.dev&utm_medium=referral&utm_campaign=sponsorship&utm_content=github-readme" rel="sponsored"
+       width="20%;">
+       <picture>
+         <source media="(prefers-color-scheme: dark)"  srcset="../assets/logo-transloadit-the-file-api-dark.png">
+         <source media="(prefers-color-scheme: light)" srcset="../assets/logo-transloadit-the-file-api.png">
+         <img alt="Transloadit.com" src="../assets/logo-transloadit-the-file-api.png" align="center" width="20%" />
+       </picture>
     </a>
   </div>
 
